@@ -108,7 +108,7 @@ better support the end goal.
 # Solution
 
 ## Install
-1. `git clone https://gitlab.com/veselov.denis/audiobook.git audiobook`
+1. `git clone https://github.com/RFContracts/audiobook.git audiobook`
 1. `cd audiobook`
 1. `composer install`
 
